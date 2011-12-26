@@ -1,4 +1,4 @@
 cd /var/www/html/
-cp -R hotgirlsandmetal.com backup/files/
-rsync -av --delete git_hotgirlsandmetal.com/deploy/ hotgirlsandmetal.com/
+cp -R guntlondon.com backup/files/
+rsync -av --delete git_guntlondon.com/deploy/ guntlondon.com/
 cd -
